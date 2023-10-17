@@ -19,12 +19,12 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['2347044986765']
-global.premium = ['2247044986765']
-global.ownernomer = '2347044986765'
-global.ownername = '🐦Star Boy RICHIE'
-global.botname = 'BOT-DEY-ON-COLOS'
-global.footer = '©NexusNwInc.'
+global.owner = ['2349165509029']
+global.premium = ['2349043069726']
+global.ownernomer = '2349165509029'
+global.ownername = 'SAINT RICHIE'
+global.botname = 'Saint Md'
+global.footer = '©SaintRichie.Inc.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'Nigeria'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
